@@ -1,7 +1,7 @@
 name: gravity
 favicon: null
-layout_spectrum: 0.08525906968861818
-typography_spectrum: 0.021182175492867827
+layout_spectrum: 0.25709
+typography_spectrum: 0.37928
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.03128390177153051
+  brandStrength: 0
   lightness: 0.5948079698719084
   saturation: 0.8413228916469961
   rhythmicContrast: 0.3977682397235185
